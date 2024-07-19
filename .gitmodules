@@ -1,0 +1,3 @@
+[submodule "ML-For-Beginners"]
+	path = ML-For-Beginners
+	url = git@github.com:microsoft/ML-For-Beginners.git
